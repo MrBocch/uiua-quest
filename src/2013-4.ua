@@ -2,7 +2,7 @@
 # closing parentheses in a character array are balanced,
 # or a 0 otherwise.
 
-Ans ← =₂/+⊂⊃(=₀/+<₀\+)(=₀/+)+ ⊃(=@()(¯=@)) ▽⊸(∊"()")
+Ans ← =₂/+⊂⊃(=₀/+<₀\+)(=₀/+)+ ⊃(=@()(¯=@))
 
 # don't like how i do the scan, but then
 # do a reduce sum to avoid calling last
