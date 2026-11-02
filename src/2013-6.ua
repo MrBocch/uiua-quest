@@ -3,7 +3,7 @@
 # (i.e. the difference between the lowest and highest
 # values) of a numeric array.
 
-Ans ← ⌵-⊃/↧/↥♭
+Ans ← ⌵-⊃/↧/↥ ♭
 
 ⍤⤙≍ 25 Ans [19 ¯3 7.6 22]
 ⍤⤙≍ 0 Ans 101
